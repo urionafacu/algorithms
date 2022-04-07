@@ -1,1 +1,6 @@
 */*.js
+target
+main
+src
+Cargo.lock
+Cargo.toml
